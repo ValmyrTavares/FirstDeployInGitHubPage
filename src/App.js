@@ -8,7 +8,7 @@ import BasicTextFields from "./components/Fomularios"
 function App() {
   return (
     <div className="App">
-    <h1 style={{color:'blue'}}>Valmyr Tavares</h1>
+    <h1 style={{color:'red'}}>Valmyr Tavares</h1>
     <Btn/>
     <BasicTextFields/>
        </div>
